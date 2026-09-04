@@ -7,3 +7,5 @@
 .savedRemarks{margin:10px 0 8px;padding:10px;border:1px solid #dbe4ef;border-radius:10px;background:#f8fafc}.savedRemarksTitle{font-weight:700;margin-bottom:7px;color:#334155}.savedRemarkItem{padding:8px 10px;margin-top:6px;background:white;border-left:4px solid #16a34a;border-radius:6px;display:flex;flex-direction:column;gap:3px}.savedRemarkItem span{white-space:pre-wrap;word-break:break-word}.savedRemarkItem small{color:#64748b;font-size:11px}.remarks{min-height:72px}.remarksLabel{margin-top:8px} .calledAt{font-size:12px;color:#475569;margin-top:8px}
 
 .statBtn{border:0;cursor:pointer;color:inherit;background:#fff}.statBtn.active{outline:2px solid #2563eb;transform:translateY(-1px)}.statBtn span{display:block}.statBtn b{display:block}
+
+.topBtn{position:fixed;right:16px;bottom:68px;width:46px;height:46px;border-radius:50%;padding:0;background:#14532d;color:#fff;font-size:26px;font-weight:700;box-shadow:0 3px 12px #0003;z-index:20;display:none;align-items:center;justify-content:center}.topBtn.show{display:flex}.statBtn{cursor:pointer}.statBtn.active{outline:2px solid #14532d;transform:translateY(-1px)}
