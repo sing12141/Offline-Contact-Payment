@@ -5,3 +5,5 @@
 
 .saveRemark{margin-top:8px;padding:9px 14px;border:0;border-radius:8px;background:#2563eb;color:#fff;font-weight:700}.saveRemark.saved{background:#15803d}.remarks{min-height:72px;width:100%;box-sizing:border-box;padding:10px;border:1px solid #cbd5e1;border-radius:8px;font:inherit;resize:vertical}.remarks:focus{outline:2px solid #93c5fd;border-color:#2563eb}
 .savedRemarks{margin:10px 0 8px;padding:10px;border:1px solid #dbe4ef;border-radius:10px;background:#f8fafc}.savedRemarksTitle{font-weight:700;margin-bottom:7px;color:#334155}.savedRemarkItem{padding:8px 10px;margin-top:6px;background:white;border-left:4px solid #16a34a;border-radius:6px;display:flex;flex-direction:column;gap:3px}.savedRemarkItem span{white-space:pre-wrap;word-break:break-word}.savedRemarkItem small{color:#64748b;font-size:11px}.remarks{min-height:72px}.remarksLabel{margin-top:8px} .calledAt{font-size:12px;color:#475569;margin-top:8px}
+
+.statBtn{border:0;cursor:pointer;color:inherit;background:#fff}.statBtn.active{outline:2px solid #2563eb;transform:translateY(-1px)}.statBtn span{display:block}.statBtn b{display:block}

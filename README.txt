@@ -18,3 +18,5 @@ Keep index.html, app.js, style.css, manifest.json and sw.js together.
 
 
 REMARKS: After calling a contact, type your note in the Remarks / Description box and tap SAVE REMARK. Remarks are stored locally on the phone and remain available for future reference. Typing also auto-saves.
+
+V8 updates: clickable Not Called dashboard showing only not-called contacts; Total returns to all contacts; saved numbered remarks are included in exported Excel; Called At exports as DD/MM/YYYY.
