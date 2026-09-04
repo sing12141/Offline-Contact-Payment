@@ -1,16 +1,20 @@
-OFFLINE CONTACT & PAYMENT - VERSION 2
+Offline Contact & Payment V3
 
-New:
-- Remarks / Description box for every contact
-- Remarks are saved automatically on the phone
-- Search also searches remarks
-- Dashboard with total, fully paid, unpaid, and selected-year counts
-- EXPORT EXCEL creates Contact_Payment_Updated.xlsx including Remarks, Called and Called At
+Features:
+- Import .xlsx Excel contact/payment list
+- Detects Name, Contact/Phone/Mobile and year columns (e.g. 2022-2026)
+- Shows PAID / NOT PAID and missing years
+- Search contacts and remarks
+- Year filter
+- Remarks / Description per contact, saved locally
+- CALL button and Mark Called tracking
+- Dashboard statistics
+- Export updated Excel including Remarks, Called and Called At
+- Offline after first load/install on HTTPS
 
-Existing:
-- Excel import
-- Automatic missing-year detection
-- Search/year filter
-- One-tap phone call
-- Mark Called
-- Offline local storage/PWA
+GitHub Pages:
+Upload the contents of this folder to the repository root.
+Keep index.html, app.js, style.css, manifest.json and sw.js together.
+
+
+REMARKS: After calling a contact, type your note in the Remarks / Description box and tap SAVE REMARK. Remarks are stored locally on the phone and remain available for future reference. Typing also auto-saves.
